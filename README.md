@@ -9,7 +9,7 @@
 
 <!--- <img align="center" alt="Coding" width="400" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/tenor_1.gif"> -->
 
-| [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=k-m-irfan&count_private=true&show_icons=true)](https://github.com/k-m-irfan/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-m-irfan)](https://git.io/streak-stats) |
+| ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=k-m-irfan&count_private=true&show_icons=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-m-irfan) |
 | - | - |
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-m-irfan&layout=compact&hide=jupyter%20notebook)](https://github.com/k-m-irfan/github-readme-stats)
