@@ -12,13 +12,9 @@
 | [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=k-m-irfan&count_private=true&show_icons=true)](https://github.com/k-m-irfan/github-readme-stats) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-m-irfan)](https://git.io/streak-stats) |
 | - | - |
 
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-m-irfan&layout=compact&hide=jupyter%20notebook)](https://github.com/k-m-irfan/github-readme-stats)
 
 ### :hammer_and_wrench: Languages and Tools : OS (Windows), OS(Linus/Ubuntu), Code(Python), Code(C/C++)
-
-
 
 
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
