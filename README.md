@@ -21,7 +21,6 @@
 
 <p align = "left">
   <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/Ubuntu.svg" height=30></a>
-  <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/Ubuntu.svg" height=30></a>
   <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/Windows.svg" height=30></a>
 </p> 
 
