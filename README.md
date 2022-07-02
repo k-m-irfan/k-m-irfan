@@ -14,7 +14,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-m-irfan">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-m-irfan&layout=compact&hide=jupyter%20notebook">
 </p> 
-
+<!--
 ### :hammer_and_wrench: Languages and Tools :
 
 ### Operating system
@@ -30,7 +30,6 @@
   <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/AdobeAfterEffects.svg" height=40></a>
   <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/AdobeIllustrator.svg" height=40></a>
   <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/AdobePhotoshop.svg" height=40></a>
-  <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/AdobeIllustrator.svg" height=40></a>
   <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/CorelDraw.svg" height=40></a>
   <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/VegasPro.svg" height=40></a>
 </p> 
@@ -104,4 +103,4 @@ Computer Vision
 EV
 
 ## Add portfolio website in github sites
-
+-->
