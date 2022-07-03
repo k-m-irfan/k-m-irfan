@@ -9,8 +9,8 @@
 # Hi there 👋
 
 <p align = "center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-m-irfan&count_private=true&show_icons=true">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-m-irfan">
+  <img src="https://github-readme-stats.vercel.app/api?username=k-m-irfan&count_private=true&show_icons=true" height=160>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-m-irfan" height=160>
 </p>
 
 <p align = "center">
