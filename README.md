@@ -59,10 +59,10 @@
 </p> 
 
 ## :zap: Domains:
-Human machine Interactions
-Autonomous Robots
-Internet of things
-Computer Vision
-EV
+- Artificial Intelligence
+- Autonomous Robots
+- Human machine Interface
+- Electriv Vehicles
+- Internet of things
 
 <!-- ## Add portfolio website in github sites -->
