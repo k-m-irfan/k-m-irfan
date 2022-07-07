@@ -59,10 +59,11 @@
 </p> 
 
 ## :zap: Domains:
-- Artificial Intelligence
-- Autonomous Robots
-- Human machine Interface
-- Electriv Vehicles
-- Internet of things
+<p align = "left">
+  <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/ArtificialIntelligence.svg" height=100></a>
+  <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/AutonomousRobots.svg" height=100></a>
+  <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/HumanMachineInteraction.svg" height=100></a>
+  <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/ElectricVehicles.svg" height=100></a>
+</p> 
 
-<!-- ## Add portfolio website in github sites -->
+<!-- # TO DO -> Add portfolio website -->
