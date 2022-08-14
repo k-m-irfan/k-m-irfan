@@ -31,7 +31,7 @@
   <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/C++.svg" height=30></a>
   <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/Octave.svg" height=30></a>
   <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/Matlab.svg" height=30></a>
-  <!-- <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/Git.svg" height=30></a> -->
+  <img src="https://github.com/k-m-irfan/k-m-irfan/blob/main/res/Git.svg" height=30></a>
 </p> 
 
 <p align = "left">
