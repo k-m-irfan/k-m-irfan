@@ -11,7 +11,7 @@
 <p align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=k-m-irfan&count_private=true&show_icons=true" height=160>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-m-irfan" height=160>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-m-irfan&layout=compact&hide=jupyter%20notebook">
+  
 </p>
 
 ## :hammer_and_wrench: Tech and Tools :
